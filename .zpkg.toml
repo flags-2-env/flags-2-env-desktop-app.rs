@@ -1,0 +1,4 @@
+name = "flags-2-env-desktop-app.rs"
+kind = "desktop-app"
+version = "0.1.0"
+
