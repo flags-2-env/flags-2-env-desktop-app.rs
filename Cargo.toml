@@ -22,4 +22,6 @@
 [lints.rust]
 unsafe_code = "forbid"
 
+[lints.clippy]
+wildcard_enum_match_arm = "deny"
 
