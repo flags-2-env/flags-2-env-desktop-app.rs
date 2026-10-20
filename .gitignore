@@ -18,3 +18,7 @@ temp/
 # Repository-local temporary data and authorized Git worktrees
 tmp/worktrees
 temp/worktrees
+
+# Reviewed fleet conformance rules (DEN-3945).
+.ores/
+target/
